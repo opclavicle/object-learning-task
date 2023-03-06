@@ -1,4 +1,4 @@
-# This is a five-day training. 
+# A five-day training discription
 To host this experiment, 2 things are required. 
 A computer screen which can generate 100 Hz images and install MATLAB and Psychotoolbox.
 Participants need to be ramdanly assinged to one of two versions of the task.
