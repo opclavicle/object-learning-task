@@ -28,4 +28,6 @@ Day 5
 object_preview.m
 object_learning_Day5.m
 
+The latest version is on https://osf.io/utx6n/.
+
 Updated on March 6 2023
