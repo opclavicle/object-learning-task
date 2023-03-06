@@ -3,7 +3,8 @@ To host this experiment, 2 things are required.
 A computer screen which can generate 100 Hz images and install MATLAB and Psychotoolbox.
 Participants need to be ramdanly assinged to one of two versions of the task.
 
-Version one
+# Version one:
+
 Day 1
 object_preview.m
 object_learning_Day1.m
@@ -15,7 +16,7 @@ Day 5
 object_preview.m
 object_learning_Day5.m
 
-version two
+# Version two:
 Day 1
 object_preview.m
 object_learning_Day1.m
