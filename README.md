@@ -1,7 +1,11 @@
 # A five-day training discription
-To host this experiment, 2 things are required. 
-A computer screen which can generate 100 Hz images and install MATLAB and Psychotoolbox.
-Participants need to be ramdanly assinged to one of two versions of the task.
+This object-learning-task contains two versions of object training code.
+The whole project and its latest version can be found on https://osf.io/utx6n/.
+
+# Requirements
+A computer screen can generate 100 Hz images.
+MATLAB
+Psychotoolbox
 
 # Version one:
 
@@ -32,5 +36,4 @@ object_learning_Day5.m
 
 ![graph_github_jpeg](https://user-images.githubusercontent.com/12095742/223987714-6560d479-63ea-4c89-8c89-4d01408f016e.jpg)
 
-The latest version is on https://osf.io/utx6n/.
-Updated on March 6 2023
+Updated on March 9 2023
