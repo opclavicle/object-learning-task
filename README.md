@@ -28,6 +28,11 @@ Day 5
 object_preview.m
 object_learning_Day5.m
 
-The latest version is on https://osf.io/utx6n/.
+# Example
 
+
+![graph_github_jpeg](https://user-images.githubusercontent.com/12095742/223987714-6560d479-63ea-4c89-8c89-4d01408f016e.jpg)
+Example of one trial.
+
+The latest version is on https://osf.io/utx6n/.
 Updated on March 6 2023
