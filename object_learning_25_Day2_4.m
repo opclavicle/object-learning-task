@@ -1,4 +1,4 @@
- Screen('Preference', 'SkipSyncTests', 1);
+
 % Day2-4  20190712 For short-reactivation group
 % note1: fixed threshold      itemDur_sec = XX
 % note2: 5x5 n_staircasePerBlock= 5 ;% for this condition
@@ -9,18 +9,11 @@
 %% uncomment these parameters and comment 'function'-line if you want to run it like a script
 clear all
 
-
+ Screen('Preference', 'SkipSyncTests', 1);
 subjID=65;
 itemDur_sec = 0.06; % fixed threshold applied to itemDur2 
 This_day =3;% Day 2,3,4
  condition=2; % determine stimulus folder
- 
-% 
-% subjID=103;
-% itemDur_sec = 0.03; % fixed threshold applied to itemDur2 
-% This_day = 4;% Day 2,3,4
-% 
-%  condition=1; % determine stimulus folder
 
 warning off;
 
